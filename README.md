@@ -9,6 +9,9 @@ is done. The clustering processing is done according to the optical flow distrib
 image. From this, the complete movement information of moving body is found and it detects the 
 moving object from the quantity of calculation, poor anti-noise performance makes it unsuitable for 
 real-time applications. 
+<img width="615" height="362" alt="image" src="https://github.com/user-attachments/assets/0e14a0ae-f500-4163-922a-80f97c1ebc6a" />
+
+<img width="641" height="1126" alt="image" src="https://github.com/user-attachments/assets/ba9ea9b5-dd7d-446e-9853-80ddb86b3638" />
 
 Therefore, In this project, we tried to incorporate the background subtraction method that delivers relatively better results & accuracy.
 The background subtraction method is the method in which the difference 
@@ -49,7 +52,4 @@ D)Background Elimination
 difference image between the current image and reference image. As the reference image is the 
 previous frame, this method is called temporal differencing. The temporal differencing is very 
 adaptive to dynamic environment. Background elimination was carried out using mean squared 
-error concept.
-
-different approaches to the basic scheme of background subtraction in terms of foreground region 
-detection, background maintenance and post processing.  
+error concept. 
