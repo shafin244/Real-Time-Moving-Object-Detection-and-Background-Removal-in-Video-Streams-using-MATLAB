@@ -9,9 +9,13 @@ is done. The clustering processing is done according to the optical flow distrib
 image. From this, the complete movement information of moving body is found and it detects the 
 moving object from the quantity of calculation, poor anti-noise performance makes it unsuitable for 
 real-time applications. 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/0e14a0ae-f500-4163-922a-80f97c1ebc6a" />
 
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/ba9ea9b5-dd7d-446e-9853-80ddb86b3638" />
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0e14a0ae-f500-4163-922a-80f97c1ebc6a" />
+
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ba9ea9b5-dd7d-446e-9853-80ddb86b3638" />
+
+
 
 Therefore, In this project, we tried to incorporate the background subtraction method that delivers relatively better results & accuracy.
 The background subtraction method is the method in which the difference 
