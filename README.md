@@ -11,7 +11,7 @@ moving object from the quantity of calculation, poor anti-noise performance make
 real-time applications. 
 
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0e14a0ae-f500-4163-922a-80f97c1ebc6a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0e14a0ae-f500-4163-922a-80f97c1ebc6a" />
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ba9ea9b5-dd7d-446e-9853-80ddb86b3638" />
 
